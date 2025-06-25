@@ -1,2 +1,2 @@
-# Snagglepusss
+# Snaglepusss
 My Personal Repository
