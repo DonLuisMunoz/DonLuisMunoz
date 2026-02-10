@@ -117,29 +117,19 @@
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, relevant courses, or notable achievements here. -->
-- 🏆 AWS Certified Solutions Architect - Associate
-- 📜 Google Cloud Professional Developer
-- 🥇 HackerRank 5-star in Python & JavaScript
-- 📊 Coursera Machine Learning Specialization (Stanford University)
+
 
 ## 📝 Latest Blog Posts
 <!-- TODO: Add links to your recent blog posts. If you don't have a blog, you can remove this section. -->
-- 📖 [Building Scalable Microservices with Docker and Kubernetes](https://yourblog.com/microservices-docker-kubernetes)
-- 🔧 [Optimizing React Performance: Advanced Techniques and Hooks](https://yourblog.com/react-performance-hooks)
-- ☁️ [AWS Lambda Best Practices for Cost-Effective Serverless Architecture](https://yourblog.com/aws-lambda-best-practices)
 
-## 🎯 2024 Goals
+
+## 🎯 2026 Goals
 <!-- TODO: Update with your current year's professional and personal development goals. -->
-- 🚀 Contribute to 10+ impactful open source projects
-- 📚 Master advanced Kubernetes and cloud-native DevOps practices
-- 🌟 Reach 100+ GitHub followers and grow my professional network
-- 📝 Publish 6+ technical blog posts sharing insights and knowledge
+
 
 ## 🏆 Open Source Contributions
 <!-- TODO: Highlight your major contributions to open source projects. If you haven't contributed yet, this is a great goal! -->
-- 🔧 **[Popular Library Name]**: Implemented feature X, fixed critical bug Y, improving overall stability.
-- 🌟 **[Framework Name]**: Contributed to documentation enhancements, resulting in clearer guides and 500+ new users.
-- 🚀 **[Tool Name]**: Developed performance optimizations for Z component, leading to a 15% speed improvement.
+
 
 ---
 
