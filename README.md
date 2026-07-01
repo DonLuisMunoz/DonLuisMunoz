@@ -17,7 +17,7 @@ Learning next: Linux + bash, AWS
 ## Projects
 A few to start with (pinned above):
 - [**Boss-Battle**](https://github.com/DonLuisMunoz/Boss-Battle) — a terminal RPG. My first project tying loops, conditionals, and string work together.
-- [**Cheat_Code_Scanner*](https://github.com/DonLuisMunoz/Cheat_Code_Scanner) — pattern matching in a string, the same logic behind searching text in a dataset.
+- [**Cheat_Code_Scanner**](https://github.com/DonLuisMunoz/Cheat_Code_Scanner) — pattern matching in a string, the same logic behind searching text in a dataset.
 - Coming: Tampa Bay housing affordability, Olist e-commerce SQL analysis, and a Hillsborough County data-cleaning pipeline.
 
 ## Background
