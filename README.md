@@ -23,6 +23,6 @@ A few to start with (pinned above):
 Ten years in IT: helpdesk, desktop support, systems engineering, systems administration. PMP certified. I ran the operations side of a home health agency before moving into data. The short version: I can build the environment and the analysis, not just the dashboard.
 
 ## Where else to find me
-- Portfolio: [luisamunoz.com](https://luisamunoz.com) < --- This is not up yet
+- Portfolio: [luisamunoz.com](https://luisamunoz.com)
 - LinkedIn: [linkedin.com/in/luisalfredomunoz](https://www.linkedin.com/in/luisalfredomunoz)
 - Email: lamunoz12@gmail.com
