@@ -12,7 +12,6 @@ If you're here to see whether I can actually do the work, the projects are the h
 ## Stack I actually use
 Python · SQL (PostgreSQL, MySQL, SQLite) · Power BI · Excel · Docker · Proxmox · Git
 
-Learning next: Linux + bash, AWS
 
 ## Projects
 A few to start with (pinned above):
